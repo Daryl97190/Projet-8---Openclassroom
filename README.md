@@ -1,4 +1,4 @@
-# Projet-8 
+# Projet 8 - Openclassroom 
 
 ## Reprenez et améliorez un projet existant
 
